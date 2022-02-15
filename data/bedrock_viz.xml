@@ -2159,6 +2159,7 @@
     <entity id="0x1b" uname="minecraft:zombie_horse" name="Horse, Zombie" etype="P" /> <!-- 0.15 -->
     <entity id="0x1C" uname="minecraft:polar_bear" name="Polar Bear" etype="P" />
     <entity id="0x1d" uname="minecraft:llama" name="Llama" etype="P" >
+    <entity id="0x81" uname="minecraft:glow_squid" name="Glow Squid" etype="P" /> <!-- 0.17 -->
       <entityvariant extradata="0x0" name="Llama, Creamy" />
       <entityvariant extradata="0x1" name="Llama, White" />
       <entityvariant extradata="0x2" name="Llama, Brown" />
